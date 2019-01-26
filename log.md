@@ -6,7 +6,7 @@
 
 **Thoughts:** Had some trouble figuring out how to divide up game logic before falling back to getter/setter methods.
 
-**Link(s) to work:** [MovieGuesser](C:\Users\Tobias Fried\Dropbox\Personal\code\java\MovieGuesser)
+**Link(s) to work:** [MovieGuesser](https://www.dropbox.com/sh/picw6o7mem8tmcv/AADhg_rz7ZHJamly3BzCLxHGa?dl=0)
 
 **Link(s) to references:** [Udacity Forum](https://discussions.udacity.com/t/lesson-3-movie-guessing-game-answer/380604/38)
 
