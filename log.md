@@ -1,5 +1,7 @@
 # 100 Days Of Code - Log
+
 ### Day 0: January 25, 2019
+####
 
 **Today's Progress:** Finished MovieGuesser program for Udacity course.
 
@@ -10,12 +12,14 @@
 **Link(s) to references:** [Udacity Forum](https://discussions.udacity.com/t/lesson-3-movie-guessing-game-answer/380604/38)
 
 ### Day 1: January 30, 2019
+####
 
 **Today's Progress:** Started MarsMission program for Udacity course.
 
 **Thoughts:** Seems pretty self-explanatory. My confidence in solving these problems has grown quite a lot.
 
 ### Day 2: January 31, 2019
+####
 
 **Today's Progress:** Completed MarsMission, the final lesson in the Udacity course.
 
@@ -28,8 +32,9 @@
 2. [Udacity Forum](https://discussions.udacity.com/t/lesson-6-project-2-space-challenge-optimization-of-rocket-loading/686167)
 
 ### Day 3: February 1, 2019
+####
 
-**Today's Progress:** 
+**Today's Progress:**
 
 **Thoughts:**
 
@@ -38,7 +43,9 @@
 **Link(s) to references:**
 
 # Template
+
 ### Day 0: February 0, 2019
+####
 
 **Today's Progress:**
 
