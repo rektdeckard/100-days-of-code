@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 
 ### Day 0: January 25, 2019
-#### Object-Oriented Programming for Java
 
 **Today's Progress:** Finished MovieGuesser program for Udacity course.
 
@@ -12,14 +11,12 @@
 **Link(s) to references:** [Udacity Forum](https://discussions.udacity.com/t/lesson-3-movie-guessing-game-answer/380604/38)
 
 ### Day 1: January 30, 2019
-#### Object-Oriented Programming for Java
 
 **Today's Progress:** Started MarsMission program for Udacity course.
 
 **Thoughts:** Seems pretty self-explanatory. My confidence in solving these problems has grown quite a lot.
 
 ### Day 2: January 31, 2019
-#### Object-Oriented Programming for Java
 
 **Today's Progress:** Completed MarsMission, the final lesson in the Udacity course.
 
@@ -32,20 +29,18 @@
 2. [Udacity Forum](https://discussions.udacity.com/t/lesson-6-project-2-space-challenge-optimization-of-rocket-loading/686167)
 
 ### Day 3: February 1, 2019
-#### Android Basics: User Interface
 
-**Today's Progress:**
+**Today's Progress:** Completed Android Basics: User Interface, started Android Basics: User Input
 
-**Thoughts:**
+**Thoughts:** I've done these exercises before. Hopefully what I learn will stick this time, and I'll begin using these skills. Already I have the idea to create a simple recipe app to keep track of my kombucha brewing recipes, and I think that before long I'll have the skills to do it.
 
 **Link(s) to work:**
-
-**Link(s) to references:**
+1. [Happy Birthday](https://www.dropbox.com/sh/c09txf9r1330b8k/AADe_IC1trD1sScMaBToO_vha?dl=0)
+2. [Kombucha Kontact](https://www.dropbox.com/sh/k026tuxb3aplr0n/AACopVK486qXS6vnZk3D2up1a?dl=0)
 
 # Template
 
 ### Day 0: February 0, 2019
-####
 
 **Today's Progress:**
 
