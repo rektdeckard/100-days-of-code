@@ -38,6 +38,51 @@
 1. [Happy Birthday](https://www.dropbox.com/sh/c09txf9r1330b8k/AADe_IC1trD1sScMaBToO_vha?dl=0)
 2. [Kombucha Kontact](https://www.dropbox.com/sh/k026tuxb3aplr0n/AACopVK486qXS6vnZk3D2up1a?dl=0)
 
+### Day 4: February 2, 2019
+
+**Today's Progress:** Completed scorekeeper exercise, fleshed out idea for Brew Keeper kombucha recipe tracking app.
+
+**Thoughts:** Brew Keeper is a recipe and brew timing app that tracks current kombucha brews and stages, stores previously used recipes and notes. The main activity will be a scrolling RecyclerView that stores in-progress brews as list items. Each item contains a Name TextView, Brew Stage Icon (1F or 2F), and Remaining Time TextView, and possibly a ProgressBar. A drop-down (expander) would show further details like ingredients and notes. A FAB on screen would prompt the user to create a new Brew, with the option to reuse a saved recipe (from Recipes Activity) or create a new one (Create Brew Activity). Tracker implements timers and notifications to keep the user updated on brew status. The app global view has a bottom Navigation Bar with three items. Previous Brews, Current Brews, and Recipes. Each would link to the appropriate Activity or Fragment.
+
+**Link(s) to work:**
+1. [Court Counter](https://www.dropbox.com/sh/c9expgujyha6cfb/AAAmp769hEtObUF9ny3Muqgaa?dl=0)
+2. [Volley Valet](https://www.dropbox.com/sh/5ryy87byt2q837j/AAAgojXL_JKvcE8BIX3QvW9Ka?dl=0)
+
+**Link(s) to references:**
+1. [RecyclerView](https://developer.android.com/guide/topics/ui/layout/recyclerview) Documentation
+2. [Notifications](https://developer.android.com/guide/topics/ui/notifiers/notifications) Overview
+3. [Service](https://developer.android.com/guide/components/services) or [JobScheduler](https://developer.android.com/topic/performance/scheduling) to handle timers
+4. [Timer](https://developer.android.com/reference/java/util/Timer) Documentation
+5. [Timer Example](https://stackoverflow.com/questions/32028134/how-to-keep-a-countdowntimer-running-even-if-the-app-is-closed)
+
+### Day 5: February 3, 2019
+
+**Today's Progress:** Completed Android Basics: User Input and Just Java app, adding SMS intent, reset button, and some additional features. Started Android Basics: Multi-Screen Apps
+
+**Link(s) to work:** [Just Java](https://www.dropbox.com/sh/7cakjazsq4oasez/AABB76JQeZGw8aTd78tMSUHca?dl=0)
+
+**Link(s) to references:**
+1. [Intents](http://www.vogella.com/tutorials/AndroidIntent/article.html#usingintents_call) Example
+2. [Common Intents](https://developer.android.com/guide/components/intents-common) Documentation
+
+### Day 6: February 4, 2019
+
+**Today's Progress:** Started Miwok App
+
+**Link(s) to work:** [Miwok](https://www.dropbox.com/sh/406car6kh8l26j5/AAAsAd5VAFA56S50Spbnxx8Va?dl=0)
+
+**Link(s) to references:** [Input Events](https://developer.android.com/guide/topics/ui/ui-events) Documentation
+
+### Day 7: February 5, 2019
+
+**Today's Progress:** Continued work on Miwok App
+
+**Thoughts:**
+
+**Link(s) to work:**
+
+**Link(s) to references:**
+
 # Template
 
 ### Day 0: February 0, 2019
