@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log
+# Code Log
 
 ### Day 0: January 25, 2019
 
@@ -77,11 +77,81 @@
 
 **Today's Progress:** Continued work on Miwok App
 
-**Thoughts:**
+### Day 8: February 6, 2019
 
-**Link(s) to work:**
+**Today's Progress:** Finished Miwok App, complete Android Basics: Multi-Screen Apps
+
+**Link(s) to work:** [Miwok](https://www.dropbox.com/sh/406car6kh8l26j5/AAAsAd5VAFA56S50Spbnxx8Va?dl=0)
+
+### Day 9: February 7, 2019
+
+**Today's Progress:** Started Android Basics: Networking, started Quake Report App
+
+**Thoughts:** Learned about public web APIs, HTTP Requests, JSON syntax and their Android Framework libraries
+
+**Link(s) to work:** [Quake Report](https://www.dropbox.com/sh/f5a4eqc2thlhgum/AAAwKpk0W3NmNS8jmxS_bVlPa?dl=0)
+
+### Day 10: February 8, 2019
+
+**Today's Progress:** Worked with sample code in the Soonami App
+
+**Thoughts:** Further exploration of APIs and JSON
+
+**Link(s) to work:** [Soonami](https://www.dropbox.com/sh/a4p9kbjm02o44kj/AAAoOD3wJfzG27QPU4WTI34Fa?dl=0)
+
+### Day 11: February 9, 2019
+
+**Today's Progress:** Worked with sample code in the Did You Feel It? App
+
+**Thoughts:** A look at AsyncTasks, background tasks and multi-thread programming, Activity lifecycle,
+
+**Link(s) to work:** [DYFI](https://www.dropbox.com/sh/ceg48div5gqpgxy/AADLa7_kpotQjTGHFT-UuqbHa?dl=0)
 
 **Link(s) to references:**
+1. [AsyncTask](https://developer.android.com/reference/android/os/AsyncTask) Documentation
+2. [Understanding the Activity Lifecycle](https://developer.android.com/guide/components/activities/activity-lifecycle)
+
+### Day 12: February 10, 2019
+
+**Today's Progress:** Completed Quake Report App, started Book List App
+
+**Thoughts:** Implemented Loader/AsyncTaskLoader and LoaderManager to run background tasks outside of the main UI thread. Used SharedPreferences and PreferenceFragment to implement runtime changes to API requests.
+
+**Link(s) to work:**
+1. [Quake Report](https://www.dropbox.com/sh/f5a4eqc2thlhgum/AAAwKpk0W3NmNS8jmxS_bVlPa?dl=0)
+2. [Book List](https://www.dropbox.com/sh/pks6zgylaf5o178/AABf8Zh3lokTsJI2hhy05VVla?dl=0)
+
+**Link(s) to references:**
+1. [Loader](https://developer.android.com/reference/android/content/Loader) Documentation
+2. [LoaderManager](https://developer.android.com/reference/android/app/LoaderManager) Documentation
+3. [PreferenceFragment](https://developer.android.com/reference/android/preference/PreferenceFragment) Documentation
+
+### Day 13: February 11, 2019
+
+**Today's Progress:** Started Android Basics: Data Storage, started Pets App, updated Book List App
+
+**Thoughts:** Into to SQLite, accessing database with a SQLiteOpenHelper, Schema and Contract
+
+**Link(s) to work:** [Pets](https://www.dropbox.com/sh/3bz5egoq0zknmoq/AABfXid7gAjhLpeMrLcy5f-Ua?dl=0)
+
+**Link(s) to references:**
+1. [Data Storage with SQLite](https://developer.android.com/training/data-storage/sqlite)
+2. [SQLite Cheat Sheet](https://d17h27t6h515a5.cloudfront.net/topher/2016/September/57ed880e_sql-sqlite-commands-cheat-sheet/sql-sqlite-commands-cheat-sheet.pdf)
+
+### Day 14: February 12, 2019
+
+**Today's Progress:** Continued with SQLite, completed Book List App
+
+**Thoughts:** Accessing databases via abstraction layers: ContentResolver > ContentProvider > SQLiteOpenHelper > SQLite Database
+
+**Link(s) to work:**
+1. [Book List]([Book List](https://www.dropbox.com/sh/pks6zgylaf5o178/AABf8Zh3lokTsJI2hhy05VVla?dl=0)
+2. [Pets](https://www.dropbox.com/sh/3bz5egoq0zknmoq/AABfXid7gAjhLpeMrLcy5f-Ua?dl=0)
+
+**Link(s) to references:**
+1. [Content Provider Basics](https://developer.android.com/guide/topics/providers/content-provider-basics)
+2. [ContentProvider](https://developer.android.com/reference/android/database/Cursor) Documentation
+3. [Cursor](https://developer.android.com/reference/android/database/Cursor)
 
 # Template
 
