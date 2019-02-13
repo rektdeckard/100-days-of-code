@@ -145,7 +145,7 @@
 **Thoughts:** Accessing databases via abstraction layers: ContentResolver > ContentProvider > SQLiteOpenHelper > SQLite Database
 
 **Link(s) to work:**
-1. [Book List]([Book List](https://www.dropbox.com/sh/pks6zgylaf5o178/AABf8Zh3lokTsJI2hhy05VVla?dl=0)
+1. [Book List](https://www.dropbox.com/sh/pks6zgylaf5o178/AABf8Zh3lokTsJI2hhy05VVla?dl=0)
 2. [Pets](https://www.dropbox.com/sh/3bz5egoq0zknmoq/AABfXid7gAjhLpeMrLcy5f-Ua?dl=0)
 
 **Link(s) to references:**
